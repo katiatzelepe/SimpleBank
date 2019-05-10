@@ -1,0 +1,10 @@
+*.dtbcache
+.suo
+*.lock
+*.ide
+*.txt
+*.dll
+*.pdb
+*.cache
+*.props
+*.targets
